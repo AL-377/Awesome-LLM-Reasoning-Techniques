@@ -141,6 +141,12 @@
     
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* EACL'24
 
+31. **[ProSLM : A Prolog Synergized Language Model for explainable Domain Specific Knowledge Based Question Answering](https://arxiv.org/abs/2409.11589)**
+
+32. **[Thought-Like-Pro: Enhancing Reasoning of Large Language Models through Self-Driven Prolog-based Chain-of-Thought](https://arxiv.org/abs/2407.14562)**
+
+33. **[Arithmetic Reasoning with LLM: Prolog Generation ](https://arxiv.org/html/2405.17893v1)**
+
 ### 2023
 
 [](https://github.com/atfortes/Awesome-LLM-Reasoning#2023-1)
@@ -264,6 +270,8 @@
 30. **[Self-consistency improves chain of thought reasoning in language models.](https://arxiv.org/abs/2203.11171)**
     
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou.* ICLR'23
+
+31. **[LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477)**
 
 
 ## Abstracts
